@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "おかしな2人",
+  "base_artist": "UNICORN",
+  "createdAt": "2026-02-19T13:31:47.224369Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "おかしな2人",
+      "artist": "UNICORN",
+      "has_synced": false,
+      "path": "select/pl_01_おかしな2人_UNICORN.txt"
+    }
+  ]
+}
